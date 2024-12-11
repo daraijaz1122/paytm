@@ -119,6 +119,9 @@ router.get("/filter", async (req, res) => {
         }))
     })
 })
+router.get("/findone/", async (req, res) => {
+    c
+})
 
    
 
